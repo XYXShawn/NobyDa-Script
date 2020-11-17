@@ -66,6 +66,18 @@
         "key": "JRThreeDoll",
         "label": "金融签叁"
       }, {
+        "key": "JRFourDoll",
+        "label": "金融签肆"
+      }, {
+        "key": "JRFiveDoll",
+        "label": "金融签伍"
+      }, {
+        "key": "JRSixDoll",
+        "label": "金融签陆"
+      }, {
+        "key": "JRLottery",
+        "label": "金融抽奖"
+      }, {
         "key": "JRSteel",
         "label": "金融钢镚"
       }, {
@@ -78,8 +90,23 @@
         "key": "TakeaLook",
         "label": "京东看看"
       }, {
+        "key": "JDComputer",
+        "label": "京东电脑"
+      }, {
+        "key": "JDConstell",
+        "label": "京东京鱼"
+      }, {
+        "key": "JDSuitcase",
+        "label": "京东箱包"
+      }, {
+        "key": "JDToyMusic",
+        "label": "京东乐器"
+      }, {
         "key": "JD3C",
         "label": "京东数码"
+      }, {
+        "key": "JDUnderwear",
+        "label": "京东内衣"
       }, {
         "key": "JDDrug",
         "label": "京东医药"
@@ -117,6 +144,9 @@
         "key": "JDEsports",
         "label": "京东电竞"
       }, {
+        "key": "JDHealth",
+        "label": "京东健康"
+      }, {
         "key": "JDCalendar",
         "label": "京东日历"
       }, {
@@ -125,6 +155,9 @@
       }, {
         "key": "JDSecKill",
         "label": "京东秒杀"
+      }, {
+        "key": "JTDouble",
+        "label": "金贴双签"
       }, {
         "key": "JDShand",
         "label": "京东二手 (如VPN重启,建议禁用)"
@@ -156,8 +189,8 @@
         "key": "JDCube",
         "label": "京东魔方"
       }, {
-        "key": "JDPrize",
-        "label": "京东大奖"
+        "key": "JDBuyCar",
+        "label": "京东汽车"
       }, {
         "key": "JRDSign",
         "label": "金融双签"
